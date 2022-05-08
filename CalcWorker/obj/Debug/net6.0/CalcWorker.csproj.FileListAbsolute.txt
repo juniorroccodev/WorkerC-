@@ -1,0 +1,141 @@
+C:\Users\jefso\source\repos\CalcWorker\CalcWorker\bin\Debug\net6.0\CalcWorker.exe
+C:\Users\jefso\source\repos\CalcWorker\CalcWorker\bin\Debug\net6.0\CalcWorker.deps.json
+C:\Users\jefso\source\repos\CalcWorker\CalcWorker\bin\Debug\net6.0\CalcWorker.runtimeconfig.json
+C:\Users\jefso\source\repos\CalcWorker\CalcWorker\bin\Debug\net6.0\CalcWorker.dll
+C:\Users\jefso\source\repos\CalcWorker\CalcWorker\bin\Debug\net6.0\CalcWorker.pdb
+C:\Users\jefso\source\repos\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.csproj.AssemblyReference.cache
+C:\Users\jefso\source\repos\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefso\source\repos\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.AssemblyInfoInputs.cache
+C:\Users\jefso\source\repos\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.AssemblyInfo.cs
+C:\Users\jefso\source\repos\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.csproj.CoreCompileInputs.cache
+C:\Users\jefso\source\repos\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.dll
+C:\Users\jefso\source\repos\CalcWorker\CalcWorker\obj\Debug\net6.0\refint\CalcWorker.dll
+C:\Users\jefso\source\repos\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.pdb
+C:\Users\jefso\source\repos\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.genruntimeconfig.cache
+C:\Users\jefso\source\repos\CalcWorker\CalcWorker\obj\Debug\net6.0\ref\CalcWorker.dll
+C:\Users\jefso\source\repos\CalcWorker\CalcWorker\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\jefso\source\repos\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.csproj.CopyComplete
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\CalcWorker.exe
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\CalcWorker.deps.json
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\CalcWorker.runtimeconfig.json
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\CalcWorker.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\CalcWorker.pdb
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.csproj.AssemblyReference.cache
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.AssemblyInfoInputs.cache
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.AssemblyInfo.cs
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.csproj.CoreCompileInputs.cache
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.csproj.CopyComplete
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\obj\Debug\net6.0\refint\CalcWorker.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.pdb
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.genruntimeconfig.cache
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\obj\Debug\net6.0\ref\CalcWorker.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\DnsClient.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\jefso\OneDrive\Documents\Visual Studio 2022\RestCalcASPNET\CalcWorker\CalcWorker\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\CalcWorker.exe
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\CalcWorker.deps.json
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\CalcWorker.runtimeconfig.json
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\CalcWorker.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\CalcWorker.pdb
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\DnsClient.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\SharpCompress.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Projetos\CalcWorker\CalcWorker\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Projetos\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.csproj.AssemblyReference.cache
+C:\Projetos\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.AssemblyInfoInputs.cache
+C:\Projetos\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.AssemblyInfo.cs
+C:\Projetos\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.csproj.CoreCompileInputs.cache
+C:\Projetos\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.csproj.CopyComplete
+C:\Projetos\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.dll
+C:\Projetos\CalcWorker\CalcWorker\obj\Debug\net6.0\refint\CalcWorker.dll
+C:\Projetos\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.pdb
+C:\Projetos\CalcWorker\CalcWorker\obj\Debug\net6.0\CalcWorker.genruntimeconfig.cache
+C:\Projetos\CalcWorker\CalcWorker\obj\Debug\net6.0\ref\CalcWorker.dll
