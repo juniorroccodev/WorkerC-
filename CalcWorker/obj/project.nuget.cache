@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZhkEqQKsf2bHpkVPWIaRtB4E4WCv8pVxMN1cNT1UVi9zcsyGmMUhnQE423W0/D63zBrOrjjide0rEKj1/im8cg==",
+  "dgSpecHash": "FaLEbJaZfV88vxQ+7vDVoWceMvrR7SnjoUjQkLrhy6fPA8Nt3aOzL2xLoQLgNDEBBVfyxTxB3pXfUx3WwwpfMw==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\CalcWorker\\CalcWorker\\CalcWorker.csproj",
+  "projectFilePath": "C:\\Projetos\\CalcWorker-C#\\CalcWorker\\CalcWorker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\norbe\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
     "C:\\Users\\norbe\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
@@ -36,6 +36,7 @@
     "C:\\Users\\norbe\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
     "C:\\Users\\norbe\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\norbe\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\norbe\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\norbe\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\norbe\\.nuget\\packages\\mongodb.bson\\2.15.0\\mongodb.bson.2.15.0.nupkg.sha512",
     "C:\\Users\\norbe\\.nuget\\packages\\mongodb.driver\\2.15.0\\mongodb.driver.2.15.0.nupkg.sha512",

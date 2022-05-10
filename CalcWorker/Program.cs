@@ -31,9 +31,11 @@ using (var channel = connection.CreateModel())
         var message = Encoding.UTF8.GetString(body);
         var calc = JsonSerializer.Deserialize<Calc>(message);
 
+        number1 = calc.number1;
+        number2 = calc.number2;
+        soma = number1 + number2;
+        idConta = calc.id;
         Console.WriteLine($" Calculo  Status =  Pendente", message);
-
-
 
         int mydelay = 2000;
         Thread.Sleep(mydelay);

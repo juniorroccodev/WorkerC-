@@ -13,11 +13,11 @@ namespace CalcWorker.Domain
     {
       
 
-        public long Id { get; set; }
-        public decimal number1 { get; set; }
-        public decimal number2 { get; set; }
+        public string id { get; set; }
+        public int number1 { get; set; }
+        public int number2 { get; set; }
         public string status { get; set; }
-        public decimal resultado { get; set; }
+        public int resultado { get; set; }
 
     }
 }

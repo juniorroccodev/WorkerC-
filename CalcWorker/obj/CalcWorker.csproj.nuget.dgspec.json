@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\CalcWorker\\CalcWorker\\CalcWorker.csproj": {}
+    "C:\\Projetos\\CalcWorker-C#\\CalcWorker\\CalcWorker.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\CalcWorker\\CalcWorker\\CalcWorker.csproj": {
+    "C:\\Projetos\\CalcWorker-C#\\CalcWorker\\CalcWorker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\CalcWorker\\CalcWorker\\CalcWorker.csproj",
+        "projectUniqueName": "C:\\Projetos\\CalcWorker-C#\\CalcWorker\\CalcWorker.csproj",
         "projectName": "CalcWorker",
-        "projectPath": "C:\\Projetos\\CalcWorker\\CalcWorker\\CalcWorker.csproj",
+        "projectPath": "C:\\Projetos\\CalcWorker-C#\\CalcWorker\\CalcWorker.csproj",
         "packagesPath": "C:\\Users\\norbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\CalcWorker\\CalcWorker\\obj\\",
+        "outputPath": "C:\\Projetos\\CalcWorker-C#\\CalcWorker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -47,6 +47,10 @@
             "Microsoft.AspNetCore.Mvc.Core": {
               "target": "Package",
               "version": "[2.2.5, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.14.0, )"
             },
             "MongoDB.Driver": {
               "target": "Package",
